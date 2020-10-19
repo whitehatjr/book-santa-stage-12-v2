@@ -126,7 +126,7 @@ var styles = StyleSheet.create({
   },
   upperContainer: {
     flex: 0.4,
-    backgroundColor: "orange",
+    backgroundColor: "#6fc0b8",
     justifyContent: "center",
     alignItems: "center"
   },
